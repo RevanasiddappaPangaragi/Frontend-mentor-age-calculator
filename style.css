@@ -1,0 +1,17 @@
+.calculator {
+    text-align: center;
+    background-color: aqua;
+    margin: 10px;
+
+}
+
+.button {
+    display: inline-block;
+    margin: 5px;
+    
+    display: flexbox;
+    max-width: 100px;
+}
+.cantainor {
+    margin: 1;
+}
